@@ -12,3 +12,5 @@ Pixel strand: https://www.amazon.com/Diffused-LED-Individually-Addressable-Water
 (Note: the ones I originally purchased are no longer available)
 
 Arduino Altoids Insert: https://www.thingiverse.com/thing:67421
+
+Just a thing to add 
